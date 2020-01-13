@@ -1,0 +1,15 @@
+{
+  "name": "election",
+  "version": "1.0.0",
+  "description": "Smart contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.0.44"
+  },
+  "devDependencies": {}
+}
