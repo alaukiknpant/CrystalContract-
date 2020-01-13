@@ -4,16 +4,16 @@ CrystalContract is a DApp that runs on top of the Ethereum network. The purpose 
 
 Contracts signed using CrystalContract legally require both parties to act in good faith just like a traditional job contract. Crystalcontract is different because it is in the blockchain and cannot be changed, deleted or intransparent. We will get to the benefits of using blockchain later.
 
-Here is how it works:
+1. Here is how it works:
 
-Registered companies seeking to hire workers from abroad are able to request access to our network. (permissioned)
-Workers seeking to go abroad can also join the network at the cost of a small gas fee g.
-Recruiting companies can also join the network at a fee costing x dollars.
-Workers and companies can sign a work contract on the network. The contract is composed of information including but not limited to the duration, salary, start date, job description and any other relevant information. Recruiting companies that helped the two parties sign the contract are also mentioned in the job contract.
-Workers that signed a contract with the company at some point can register complaints about the company. Others who have signed a contract with the same company can also show support by signing the report digitally..
+a. Registered companies seeking to hire workers from abroad are able to request access to our network. (permissioned)
+b. Workers seeking to go abroad can also join the network at the cost of a small gas fee g.
+c. Recruiting companies can also join the network at a fee costing x dollars.
+d. Workers and companies can sign a work contract on the network. The contract is composed of information including but not limited to the duration, salary, start date, job description and any other relevant information. Recruiting companies that helped the two parties sign the contract are also mentioned in the job contract.
+e. Workers that signed a contract with the company at some point can register complaints about the company. Others who have signed a contract with the same company can also show support by signing the report digitally..
 
 
-The problems it solves:
+2. The problems it solves:
 
 i) It helps a third parties such as airport officials monitor human trafficking by checking weather there is a contract between the comapany and the employee. 
 ii) A third party such as the government can remotely monitor if all contracts guarantee at least minimum wage to the workers.
