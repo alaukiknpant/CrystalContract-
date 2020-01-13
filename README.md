@@ -23,7 +23,7 @@ iv) It eliminates middlemen that have traditionally supplied fake paperwork to w
 3. Use of Blockchain Technology
 CrystalContract’s blockchain solution is better than a massive government database software because the foriegn labor market is corrupt. For instance, former president of the Nepal football Association Ganesh Thapa was found linked to Qatari government. In 2014, one Nepalese migrant worker died every two days building the 2022 World Cup stadiums in Qatar. We need a technology that is immutable and can also possibly be accessed by multiple parties such as Amnesty International or the United Nations Human Rights Council.
 
-Why use the Ethereum’s blockchain development environment? 
+4. Why use the Ethereum’s blockchain development environment? 
 The only options to build a smart contract that uses blockchain technology that we know of are ethereum, building your own blockchain, or using a centralised network like hyper ledger. In our case, using a centralised network would make it easier for a company to bribe a report out of existence. Building our own blockchain would be difficult, and we would struggle with adoption incentives for miners. Because this project is rather simple in scope, the best solution was to build it on top of the Ethereum blockchain.
 
 
