@@ -2,6 +2,8 @@
 
 For working demo check: https://ropsten.etherscan.io/dapp/0x24c225224ec3914995a38a4b17398a59d2cb2a50#writeContract
 
+Note that this requires metamask and there are special priviledges for the host.
+
 
 CrystalContract is a DApp that runs on top of the Ethereum network. The purpose of CrystalContract is simple. We help employers and employees sign job contracts on the blockchain. Our target audience is primarily composed of construction and hospitality companies in the Gulf region and the low-skilled migrant workers they hire.
 
